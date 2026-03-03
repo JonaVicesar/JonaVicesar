@@ -36,13 +36,14 @@ Open to work. Feel free to reach out.
 ### Numbers
 
 <a href="https://github.com/JonaVicesar">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonaVicesar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonaVicesar&theme=github_dark" />
 </a>
 
 <a href="https://github.com/JonaVicesar">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonaVicesar&theme=tokyonight" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonaVicesar&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonaVicesar&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonaVicesar&theme=github_dark" />
 </a>
+
 
 <img src="https://streak-stats.demolab.com?user=JonaVicesar&hide_border=true&theme=tokyonight&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa" />
 
